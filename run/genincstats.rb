@@ -10,7 +10,7 @@ def	help
 	puts "\t-a --alpha\t\tcharset: abcdefghijklmnopqrstuvwxyz"
 	puts "\t-A --alphamaj\t\tcharset: ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 	puts "\t-l --alphanum\t\tcharset: alpha + num"
-	puts "\t-l --alphanummaj\tcharset: alpha + alphamaj + num"
+	puts "\t-L --alphanummaj\tcharset: alpha + alphamaj + num"
 	puts "\t-s --all\t\tcharset: alpha + alphamaj + num + !@#$+=.*"
 	puts "\t-c --custom"
 	puts "\nExample:\n"
